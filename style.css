@@ -28,6 +28,7 @@
 }
 #bag{
     border-radius: 50%;
+    padding: 5px;
     margin-top: 3px;
     transition: all .3s ease;
 }
